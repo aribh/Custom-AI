@@ -1,2 +1,2 @@
-# Creating-an-AI-from-Scratch
+# Currently Creating an AI from Scratch
 I built an AI from Scratch
